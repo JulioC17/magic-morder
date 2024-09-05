@@ -69,6 +69,27 @@ body{
     text-align: center;
 }
 
+@media (max-width: 480px){
+    body {
+        background-color: aqua;
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+        margin-top: 40px;
+    }
+    header{
+        width: 70%;
+        font-size: 0.6rem;
+    }
+
+    #cuadrado{
+        height: 25vh;
+        width: 25vh;    
+    }
+
+
+}
+
 
 
 
