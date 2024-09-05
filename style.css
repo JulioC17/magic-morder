@@ -71,7 +71,6 @@ body{
 
 @media (max-width: 480px){
     body {
-        background-color: aqua;
         display: flex;
         flex-direction: column;
         gap: 1px;
